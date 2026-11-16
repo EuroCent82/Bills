@@ -28,14 +28,16 @@
   <a href="https://github.com/EuroCent82/Bills"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-EuroCent82%2FBills-245C48?style=flat-square"></a>
   <a href="LICENSE"><img alt="Apache License 2.0" src="https://img.shields.io/badge/license-Apache%202.0-D5B41A?style=flat-square"></a>
   <a href="https://github.com/EuroCent82/PineLoader/releases/latest"><img alt="PineLoader 1.0.3" src="https://img.shields.io/badge/PineLoader-1.0.3-04221a?style=flat-square"></a>
-  <img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-245C48?style=flat-square">
+  <img alt="Version 1.0.1" src="https://img.shields.io/badge/version-1.0.1-245C48?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="https://github.com/EuroCent82/Bills/releases/latest"><img alt="Download 1.0.0" src="https://img.shields.io/badge/download-1.0.0-D5B41A?style=flat-square"></a>
+  <a href="https://github.com/EuroCent82/Bills/releases/latest"><img alt="Download 1.0.1" src="https://img.shields.io/badge/download-1.0.1-D5B41A?style=flat-square"></a>
 </p>
 
 The loader is [PineLoader 1.0.3](https://github.com/EuroCent82/PineLoader/releases/latest). The same guide is on [PineLoader.dev](https://pineloader.dev). The pictures below are the German game. The labels follow the language of the game. On the phone, the app is named MyBills. Inside the app, the title follows the language selected in the game.
+
+1.0.1 loads the phone page and the company computer app. In 1.0.0 the phone icon was there, but the page stayed empty and the computer app was missing.
 
 ## MyBills
 
@@ -105,7 +107,7 @@ Install PineLoader first, then Bills. The same steps are in [instructions.txt](i
 
 ### Bills
 
-1. Download [Bills 1.0.0](https://github.com/EuroCent82/Bills/releases/latest). The file is `Bills-1.0.0.zip`.
+1. Download [Bills 1.0.1](https://github.com/EuroCent82/Bills/releases/latest). The file is `Bills-1.0.1.zip`.
 2. Copy the `Bills` folder from that zip into `PineLoader\Mods`. The two files are `Bills.dll` and `bills-agent.jar`.
 3. Start the game through PineLoader. The loader writes `Config\Bills.ini` when that file is missing.
 

@@ -1,19 +1,23 @@
-Bills 1.0.2
-2026-11-17
-
-The phone and the company computer show the same list of open bills.
-The pay control says Bezahlen and the amount. An empty amount stays Bezahlen.
-Phone and Computer are not switches. The apps are there while the mod is on.
-A bill that was debited and not closed is remembered in Mods\Bills\offen-abgebucht.json.
+[b]Bills 1.0.2[/b]
+[b]Handy[/b] und [b]Firmenrechner[/b] zeigen dieselbe Liste offener Rechnungen.
+Der Knopf [b]Bezahlen[/b] nennt den Betrag.
+Ein leerer Betrag bleibt [b]Bezahlen[/b].
+[b]Phone[/b] und [b]Computer[/b] sind keine Schalter.
+Die Apps sind da, solange die Mod an ist.
+Eine abgebuchte, nicht geschlossene Rechnung steht in [code]Mods\Bills\offen-abgebucht.json[/code].
+Ein Neustart bucht diese Rechnung nicht noch einmal ab.
+[b]Archive[/b] und [b]AutoPay[/b] bleiben, wie sie in [code]Config\Bills.ini[/code] stehen.
+Braucht [b]PineLoader 1.0.4[/b].
+[b]Phone[/b] and the [b]company computer[/b] show the same list of open bills.
+The [b]Bezahlen[/b] control names the amount.
+An empty amount stays [b]Bezahlen[/b].
+[b]Phone[/b] and [b]Computer[/b] are not switches.
+The apps are there while the mod is on.
+A bill that was debited and not closed is kept in [code]Mods\Bills\offen-abgebucht.json[/code].
 A restart does not debit that bill again.
-Archive and AutoPay are left as they are in Config\Bills.ini.
+[b]Archive[/b] and [b]AutoPay[/b] stay as they are in [code]Config\Bills.ini[/code].
+Needs [b]PineLoader 1.0.4[/b].
 
-Needs PineLoader 1.0.4.
-The zip is Bills-1.0.2.zip.
-Copy the Bills folder into PineLoader\Mods\.
-The zip does not contain bills.json. Leave the existing file in place.
-
-1.0.1
-2026-11-16
-
+[b]1.0.1[/b]
+Die Seite auf dem [b]Handy[/b] und die App auf dem [b]Firmenrechner[/b] laden.
 The phone page and the company computer app load.

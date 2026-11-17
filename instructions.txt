@@ -1,4 +1,4 @@
-Bills 1.0.1
+Bills 1.0.2
 A PineLoader mod for Pionero Capital.
 MyBills lists the company bills on the phone and on the company computer.
 A bill is paid from the company account. What the account cannot cover stays open.
@@ -11,10 +11,10 @@ Site
   https://pineloader.dev
 
 Releases
-  PineLoader 1.0.3
+  PineLoader 1.0.4
   https://github.com/EuroCent82/PineLoader/releases/latest
 
-  Bills 1.0.1
+  Bills 1.0.2
 
 Install
 
@@ -22,10 +22,10 @@ Install PineLoader first. Then install Bills.
 
 1. PineLoader
 
-   Download PineLoader 1.0.3:
+   Download PineLoader 1.0.4:
    https://github.com/EuroCent82/PineLoader/releases/latest
 
-   The file is PineLoader-1.0.3-win-x64.zip.
+   The file is PineLoader-1.0.4-win-x64.zip.
    Unpack it into a folder named PineLoader next to the game.
    For Pionero Capital the program then sits here:
 
@@ -42,8 +42,8 @@ Install PineLoader first. Then install Bills.
 
 2. Bills
 
-   Download Bills 1.0.1.
-   The file is Bills-1.0.1.zip.
+   Download Bills 1.0.2.
+   The file is Bills-1.0.2.zip.
    Copy the Bills folder from that zip into:
 
    Pionero Capital\PineLoader\Mods\

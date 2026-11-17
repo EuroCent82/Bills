@@ -1,0 +1,19 @@
+Bills 1.0.2
+2026-11-17
+
+The phone and the company computer show the same list of open bills.
+The pay control says Bezahlen and the amount. An empty amount stays Bezahlen.
+Phone and Computer are not switches. The apps are there while the mod is on.
+A bill that was debited and not closed is remembered in Mods\Bills\offen-abgebucht.json.
+A restart does not debit that bill again.
+Archive and AutoPay are left as they are in Config\Bills.ini.
+
+Needs PineLoader 1.0.4.
+The zip is Bills-1.0.2.zip.
+Copy the Bills folder into PineLoader\Mods\.
+The zip does not contain bills.json. Leave the existing file in place.
+
+1.0.1
+2026-11-16
+
+The phone page and the company computer app load.

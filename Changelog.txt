@@ -1,3 +1,9 @@
+[b]Bills 1.0.3[/b]
+[b]Spielbindungen[/b] an die aktuelle Spielversion angepasst (Firma, Handy und Firmenrechner). Bytecode-Transformationen, Hook-Erkennung und Reflection für Kontostand, Zustandskopie und Abbuchungen aktualisiert.
+[b]Game bindings[/b] updated for the current game version (company, phone, and company computer). Bytecode transformations, hook detection, and reflection for balance, state copy, and debits updated.
+Braucht [b]PineLoader 1.1.0-alpha[/b].
+Needs [b]PineLoader 1.1.0-alpha[/b].
+
 [b]Bills 1.0.2[/b]
 [b]Handy[/b] und [b]Firmenrechner[/b] zeigen dieselbe Liste offener Rechnungen.
 Der Knopf [b]Bezahlen[/b] nennt den Betrag.

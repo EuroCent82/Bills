@@ -11,8 +11,8 @@ Site
   https://pineloader.dev
 
 Releases
-  PineLoader 1.1.0-alpha
-  https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha
+  PineLoader 1.0.4
+  https://github.com/EuroCent82/PineLoader/releases/latest
 
   Bills 1.0.3
 
@@ -22,10 +22,10 @@ Install PineLoader first. Then install Bills.
 
 1. PineLoader
 
-   Download PineLoader 1.1.0-alpha:
-   https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha
+   Download PineLoader 1.0.4:
+   https://github.com/EuroCent82/PineLoader/releases/latest
 
-   The file is PineLoader-1.1.0-alpha-win-x64.zip.
+   The file is PineLoader-1.0.4-win-x64.zip.
    Unpack it into a folder named PineLoader next to the game.
    For Pionero Capital the program then sits here:
 
@@ -42,8 +42,7 @@ Install PineLoader first. Then install Bills.
 
 2. Bills
 
-   Download Bills 1.0.3:
-   https://github.com/EuroCent82/Bills/releases/tag/v1.0.3
+   Download Bills 1.0.3.
    The file is Bills-1.0.3.zip.
    Copy the Bills folder from that zip into:
 
